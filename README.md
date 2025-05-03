@@ -1,12 +1,12 @@
 # ML-KNN-Code
 # K-Nearest Neighbors (KNN) Classifier on Iris Dataset
 
-## 📌 Deskripsi Proyek
+## Deskripsi Proyek
 Repositori ini berisi implementasi algoritma **K-Nearest Neighbors (KNN)** menggunakan bahasa Python dan pustaka `scikit-learn`, dengan dataset klasik **Iris**. Kode ini merupakan bagian dari eksperimen sederhana untuk studi kecerdasan buatan dan machine learning.
 
 ---
 
-## 🔎 Versi Awal (Kode Belum Dimodifikasi)
+## Versi Awal (Kode Belum Dimodifikasi)
 
 Kode awal dari repositori GitHub [Saswat956/Machine-Learning-Codes](https://github.com/Saswat956/Machine-Learning-Codes) hanya memuat fungsi dasar dari algoritma KNN, seperti:
 
@@ -19,11 +19,11 @@ Namun, belum terdapat visualisasi distribusi data maupun confusion matrix.
 
 ---
 
-## ✅ Versi Dimodifikasi
+## Versi Dimodifikasi
 
 Kode yang telah dimodifikasi menambahkan sejumlah fitur penting untuk memperjelas proses eksperimen dan evaluasi model:
 
-### ✨ Perubahan yang Dilakukan:
+### Perubahan yang Dilakukan:
 1. **Konversi ke Pandas DataFrame**  
    Dataset `iris` dikonversi ke dalam DataFrame untuk eksplorasi awal.
 
@@ -41,7 +41,7 @@ Kode yang telah dimodifikasi menambahkan sejumlah fitur penting untuk memperjela
 
 ---
 
-## 📈 Output Eksperimen
+## Output Eksperimen
 
 - Akurasi Model: `1.00` (100%)
 - Confusion Matrix menunjukkan klasifikasi sempurna pada semua kelas (*setosa*, *versicolor*, *virginica*).
@@ -49,13 +49,13 @@ Kode yang telah dimodifikasi menambahkan sejumlah fitur penting untuk memperjela
 
 ---
 
-## 🧠 Topik Kecerdasan Buatan Terkait
+## Topik Kecerdasan Buatan Terkait
 
 Eksperimen ini termasuk dalam **Machine Learning**, khususnya pada **algoritma supervised learning** berbasis kedekatan jarak (*instance-based learning*), yaitu **K-Nearest Neighbors (KNN)**.
 
 ---
 
-## 📚 Referensi
+## Referensi
 
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 - [UCI Machine Learning Repository - Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)
