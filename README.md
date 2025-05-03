@@ -55,10 +55,11 @@ Eksperimen ini termasuk dalam **Machine Learning**, khususnya pada **algoritma s
 
 ---
 
-## 🧪 Cara Menjalankan
+## 📚 Referensi
 
-1. **Google Colab**  
-   Unggah file `.ipynb` ke GitHub dan buka di [Google Colab](https://colab.research.google.com/).
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+- [UCI Machine Learning Repository - Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)
+- [Saswat956/Machine-Learning-Codes GitHub](https://github.com/Saswat956/Machine-Learning-Codes)
 
-2. **Local (Anaconda/Jupyter Notebook)**  
-   Pastikan pustaka berikut telah terinstal:
+---
+
